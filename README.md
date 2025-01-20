@@ -34,7 +34,7 @@ The program asks the player for their choice, generates a random choice for the 
 2. Download or clone the game files to your local machine.
 
 ## Example Gameplay
-![image](https://github.com/user-attachments/assets/712fa38d-4c58-4dd5-9069-7c63a4a33bce)
+<img src="https://github.com/user-attachments/assets/712fa38d-4c58-4dd5-9069-7c63a4a33bce" width="300">
 
 ## License
 This project is open-source and available under the MIT License.
