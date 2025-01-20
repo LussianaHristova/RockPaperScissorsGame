@@ -19,15 +19,15 @@ The program asks the player for their choice, generates a random choice for the 
 ## How to Play
 1. Run the program: Start the game by running the Python script.
 2. Enter your choice: When prompted, type one of the following:
-- r
-- p
-- s
+ - r
+ - p
+ - s
 3. The computer will automatically select its move.
 4. The program will display:
-- Your choice.
-- The computer's choice.
-- The result of the round (You Win!, You lose!, or Draw!).
-- Play again: After each round, you can decide whether to play another round or exit the game.
+ - Your choice.
+ - The computer's choice.
+ - The result of the round (You Win!, You lose!, or Draw!).
+ - Play again: After each round, you can decide whether to play another round or exit the game.
 
 ## Installation
 1. Ensure you have Python 3 installed on your computer.
