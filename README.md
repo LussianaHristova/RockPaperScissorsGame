@@ -1,4 +1,4 @@
-# RockPaperScissorsGame
+# The "Rock - Paper - Scissors" Game
 ### This is a simple console game written in Python: "Rock Paper Scissors".
 
 The Rock-Paper-Scissors game is a classic two-player game where a user competes against the computer. The game is simple and follows the traditional rules:
