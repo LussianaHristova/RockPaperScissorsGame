@@ -1,9 +1,7 @@
-while True:
-    from os import execl
-    from sys import executable, argv
-    from colorama import Fore, Style
-    from random import randint
+from colorama import Fore, Style
+from random import randint
 
+while True:
     rock = 'ROCK'
     paper = 'PAPER'
     scissors = 'SCISSORS'
